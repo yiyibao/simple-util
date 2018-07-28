@@ -1,0 +1,32 @@
+{
+  "name": "simple-util",
+  "version": "0.0.1",
+  "description": "this is a simple util",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiyibao/simple-util.git"
+  },
+  "keywords": [
+    "util"
+  ],
+  "author": "https://github.com/yiyibao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yiyibao/simple-util/issues"
+  },
+  "homepage": "https://github.com/yiyibao/simple-util#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.1.0"
+  }
+}
