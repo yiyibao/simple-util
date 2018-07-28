@@ -1,10 +1,16 @@
 # simple-util
 
-小工具
+小工具，官网`https://yiyibao.github.io/utils/`
 
 ## 简介
 
+特色(推广描述)
+
 ## 安装下载
+
+- 下载地址：https://github.com/yiyibao/simple-util/releases
+- `npm i simple-util`
+- CDN `http://unpkg.com/simple-util/release/bundle.js`
 
 ## 快速开始
 
@@ -13,7 +19,8 @@
 
 ## 交流 & 提问
 
-https://github.com/yiyibao/simple-util/issues
+- 提问：https://github.com/yiyibao/simple-util/issues
+- QQ群
 
 ## 关于作者
 
